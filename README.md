@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Instagram Clone App Link
--[Instagram Clone](https://social-ajay.vercel.app/auth)
+-[Instagram Clone](https://ajay-bind.vercel.app/)
 
 ## Profile
 
